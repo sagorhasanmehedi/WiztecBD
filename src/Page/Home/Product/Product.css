@@ -1,0 +1,26 @@
+.all_product {
+  max-width: 1200px;
+  margin-left: 21%;
+}
+.product {
+  display: flex;
+  width: 275px;
+  height: 175px;
+  cursor: pointer;
+}
+.product_image {
+  width: 145px;
+  margin: 0;
+}
+
+.product_info {
+  font-size: 15px;
+  font-weight: 600;
+  background-color: white;
+}
+.product_price {
+  color: orangered;
+}
+.product_info p {
+  background-color: white;
+}

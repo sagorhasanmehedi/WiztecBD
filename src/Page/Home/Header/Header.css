@@ -1,0 +1,28 @@
+.nav_bar {
+  display: flex;
+  justify-content: space-around;
+  padding: 18px 100px;
+  align-items: center;
+}
+.logo img {
+  width: 225px;
+  cursor: pointer;
+}
+.page_route ul li {
+  list-style: none;
+  margin-left: 40px;
+  font-size: 16px;
+  font-weight: bold;
+  cursor: pointer;
+  color: black;
+}
+.page_route ul li:hover {
+  color: orangered;
+  transition: 0.5s;
+}
+.page_route ul {
+  display: flex;
+}
+.link_style {
+  text-decoration: none;
+}

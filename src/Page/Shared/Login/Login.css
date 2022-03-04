@@ -1,0 +1,29 @@
+.login_form {
+  background-color: rgb(6, 155, 155);
+  width: 312px;
+  height: 300px;
+  margin: 100px auto;
+  border-radius: 10px;
+  padding: 50px 10px 0 10px;
+}
+.main_form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.login_form input {
+  width: 97%;
+  height: 30px;
+  border-radius: 3px;
+  margin-bottom: 15px;
+  border: none;
+}
+.google_login {
+  width: 100%;
+  height: 32px;
+  border-radius: 3px;
+  border: none;
+  background-color: rgb(196, 56, 5);
+  color: white;
+  cursor: pointer;
+}
